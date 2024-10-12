@@ -1,0 +1,24 @@
+/* global variables */
+
+:root {
+  --font-family: 'Roboto', sans-serif;
+  --lime-light: #3ce800;
+  --lime-dark: #36c903;
+  --lime-active: #3be104;
+  --lime-gradient: linear-gradient(315deg, #3ce800 0%, #00b1d8 100%);
+  --red: #ff003d;
+  --gray: #3d3d3d;
+  --bg-dark: #1b1b1b;
+  --gray-light: #f2f2f2;
+  --gray-light-dark: #e5e5e5;
+  --white: #fff;
+  --black: #000;
+}
+
+/* rest */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
